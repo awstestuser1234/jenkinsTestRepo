@@ -5,7 +5,7 @@ public class Temp {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World");
 		for (int i=0; i <10; i++)
-			System.out.println("OM Namah Shivay");
+			System.out.println("OM Namah Shivay!");
 	}
 
 }
